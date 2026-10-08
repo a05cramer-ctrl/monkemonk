@@ -1,0 +1,37 @@
+MONKE ($MONKE) — LAUNCH INFO
+Chain: Solana · Pad: pump.fun · CA: (blank until launch) · X: (blank until you pick)
+
+NAME / TICKER
+Monke / MONKE
+
+DESCRIPTION (pump.fun)
+A snow monkey who became a monk. Rejected modernity. Returned to monk. See no chart, hear no FUD, speak no sell.
+
+X BIO
+Rejected modernity. Returned to monk. See no chart, hear no FUD, speak no sell. $MONKE on Solana.
+
+HANDLE PICKS
+@monkemonastery
+@returnedtomonk
+@themonkemonk
+@monke_monk
+
+PRE-LAUNCH TWEET
+Far above the trenches there is a monastery. A snow monkey took his vows there. See no chart. Hear no FUD. Speak no sell.
+
+LAUNCH TWEET
+MONKE is live. $MONKE
+Rejected modernity. Returned to monk.
+CA: <CA>
+<pump.fun link>
+
+REPLY (link once)
+Site: <site link>
+
+NOTES
+- Site is the chipmonk build with a new character: loader, 3D peak, intro film, Hall of Scrolls (16 memes), Robe Room pfp maker, The Vow hold game, Temple TV (5 episodes).
+- Until CA + X are in config.js the site shows "CA DROPS AT LAUNCH" and the buy/chart/X buttons are off. Send them and I fill config.js, re-cut the zip, update this file.
+- Buy link: pump.fun/coin/<CA>   Chart: gmgn.ai/sol/token/<CA>   (both fill in from the CA automatically)
+- PFP: pfp.png (1024, under X's 2 MB limit). Banner: banner.jpg (3000x1000, bottom-left empty for the avatar). Link preview: og.jpg inside the site folder.
+- Handle picks are not checked for availability.
+- Not pushed to GitHub yet.
